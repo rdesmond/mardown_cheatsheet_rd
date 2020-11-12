@@ -1,1 +1,1 @@
-This is a demo for git course - this on demo_3 branch
+This is a demo for git course - this on demo_3 branch - 2.2
